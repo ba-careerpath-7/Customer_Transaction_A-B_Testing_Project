@@ -2,7 +2,7 @@
 Customer Transaction A/B Testing Project from the resume.
 
 
-# ⭐ SECTION A: Introduction
+# ⭐ Overview:
 
 Hello guys!
 
