@@ -5,7 +5,7 @@ Customer Transaction A/B Testing Project from the resume.
 
 ---
 
-### Project well-received by Kaggle Grandmaster and Expert contributors
+## Project well-received by Kaggle Grandmaster and Expert contributors
 
 **Last verified: 12/16/25**
 
