@@ -24,11 +24,11 @@ Analyzed e-commerce user data to identify key predictors of income and churn. Co
 
 **🎨Features:**
 
-Determined that gender and country had minimal influence on churn/income.
+* Determined that gender and country had minimal influence on churn/income.
 
-Applied A/B testing, ANOVA, and bootstrap methods for robust evaluation.
+* Applied A/B testing, ANOVA, and bootstrap methods for robust evaluation.
 
-Highlighted behavioral features as stronger predictors for business insights.
+* Highlighted behavioral features as stronger predictors for business insights.
 
 Technologies: Python, Pandas, NumPy, SciPy, Matplotlib, Seaborn
 
